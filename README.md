@@ -30,11 +30,7 @@ The system captures video frames, processes them, and draws rectangles around de
 
 ## 📂 Project Structure
 
-Face-Detection-System/
-│
-├── main.py
-├── README.md
-└──requirements.txt
+Face-Detection-System/main.py, README.md, requirements.txt
 
 ---
 
